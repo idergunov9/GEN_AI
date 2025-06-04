@@ -2,7 +2,7 @@
 
 ## Project Goals
 
-This project fine-tunes a small GPT model (`ChatGPT Small Rus 3 / ruGPT3Small`) on Ukrainian-language banking data from PrivatBank to:
+This project fine-tunes a small GPT model (`ChatGPT Small Rus 3 / ruGPT3Small`) on Ukrainian-language banking data from Terms & Conditions of PrivatBank to:
 
 - Generate correct and concise banking product descriptions in Ukrainian.
 - Respond to banking-related customer queries.
